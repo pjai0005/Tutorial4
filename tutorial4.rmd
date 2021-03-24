@@ -1,0 +1,8 @@
+---
+title: Learning to reference figures, tables and sections.
+author: Prachi
+date: "`r format(Sys.Date(), '%d %B, %Y')`"
+output:
+bookdown :: html_document2
+keep_md: true
+---
